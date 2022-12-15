@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Images/client.png</file>
+        <file>Images/router.png</file>
+        <file>Images/server.png</file>
+    </qresource>
+</RCC>
